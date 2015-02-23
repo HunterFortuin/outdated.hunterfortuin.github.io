@@ -40,6 +40,7 @@ since it must be aligned with the content */
 
 /*** logo ***/
 .logo-container {
+  margin-top: -10px;
   text-align: center; }
 
 .logo {
